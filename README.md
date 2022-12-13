@@ -9,3 +9,5 @@ Para correr el proyecto se tienen que seguir los siguientes pasos:
 
 3.- Listo! Ya puedes presionar el botón "Location" para encontrar la ubicación en el mapa
 
+
+**Nota: Para evitar problemas, se utilizó el puerto 8081 para lanzar la aplicación.**
