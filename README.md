@@ -17,7 +17,7 @@ Para correr el proyecto se tienen que seguir los siguientes pasos:
 **Nota: Para evitar problemas, se utilizó el puerto 8081 para lanzar la aplicación.**
 
 Elaborado por:
-    Ignacio Emmanuel Isaac Medina
-    Carlos Enrique Carballo Morales
-    Juan Pablo Olán Ramón
+    Ignacio Emmanuel Isaac Medina,
+    Carlos Enrique Carballo Morales,
+    Juan Pablo Olán Ramón,
     Angeles Teresa Mena Dzul
