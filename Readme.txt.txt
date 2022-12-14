@@ -18,7 +18,7 @@ Listado de Bugs conocidos:
  - Al señalar la ubicación en el mapa de la dirección ip localizada (Después de presionar el botón "Location") el marcador se pierde.
 
 
-**Nota: Para evitar problemas, se utilizó el puerto 8081 para lanzar la aplicación.**
+Nota: Para evitar problemas, se utilizó el puerto 8081 para lanzar la aplicación.
 
 Elaborado por:
     Ignacio Emmanuel Isaac Medina,
