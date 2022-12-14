@@ -1,0 +1,20 @@
+body{
+	background-color: palevioletred;
+}
+
+.mapa {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.titulo{
+	display: flex;
+	align-items: center;
+	justify-content: center; 
+}
+
+
+.boton {
+	text-align: center;
+}
